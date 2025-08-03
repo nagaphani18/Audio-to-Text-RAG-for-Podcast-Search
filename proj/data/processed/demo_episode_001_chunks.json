@@ -1,0 +1,62 @@
+[
+  {
+    "id": "chunk_001",
+    "text": "This is a sample podcast episode about artificial intelligence and machine learning.",
+    "metadata": {
+      "keywords": [
+        "podcast",
+        "artificial",
+        "intelligence",
+        "machine",
+        "learning"
+      ],
+      "word_count": 12,
+      "sentence_count": 1,
+      "start_time": 0.0,
+      "end_time": 5.0,
+      "speaker": "Speaker_1",
+      "episode_id": "demo_episode_001",
+      "confidence": 0.95
+    }
+  },
+  {
+    "id": "chunk_002",
+    "text": "We discuss the latest developments in AI technology and their impact on society.",
+    "metadata": {
+      "keywords": [
+        "developments",
+        "technology",
+        "impact",
+        "society"
+      ],
+      "word_count": 11,
+      "sentence_count": 1,
+      "start_time": 5.0,
+      "end_time": 10.0,
+      "speaker": "Speaker_2",
+      "episode_id": "demo_episode_001",
+      "confidence": 0.92
+    }
+  },
+  {
+    "id": "chunk_003",
+    "text": "The conversation covers topics like deep learning, neural networks, and the future of automation.",
+    "metadata": {
+      "keywords": [
+        "conversation",
+        "deep",
+        "learning",
+        "neural",
+        "networks",
+        "automation"
+      ],
+      "word_count": 13,
+      "sentence_count": 1,
+      "start_time": 10.0,
+      "end_time": 15.0,
+      "speaker": "Speaker_1",
+      "episode_id": "demo_episode_001",
+      "confidence": 0.88
+    }
+  }
+]
